@@ -289,7 +289,7 @@ class NewsFeedScreen extends StatelessWidget {
                           alignment: Alignment.centerLeft,
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(20.0),
-                            color: Colors.grey.shade600.withOpacity(0.5),
+                            color: Colors.grey.shade600.withOpacity(0.6),
                           ),
                           child: Padding(
                             padding: const EdgeInsets.all(5.0),
